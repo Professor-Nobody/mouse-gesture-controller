@@ -1,7 +1,8 @@
-Gesture Mouse Control with Python
-This is a Python program that allows you to control your computer mouse using hand gestures. The program uses OpenCV to detect hand gestures and PyAutoGUI to move the mouse cursor.
+# Gesture Mouse Control with Python <br>
+This is a Python program that allows you to control your computer mouse using hand gestures.<br> The program uses OpenCV to detect hand gestures and PyAutoGUI to move the mouse cursor.
+<br>
 
-Dependencies
+# Dependencies
 To run this program, you'll need to install the following Python packages:
 
 numpy
