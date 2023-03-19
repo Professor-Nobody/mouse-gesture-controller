@@ -1,4 +1,6 @@
 # mouse-gesture-controller
 
-#First Step :-
-`Download and unzip this file`
+# First Step :- <br>
+`Download and unzip this file` <br>
+# Second Step :- <br>
+```pip install opencv-python```
