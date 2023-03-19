@@ -35,5 +35,5 @@ To exit the program, press the "q" key.
 # Limitations
 This program is designed to work with a single hand only, and may not work well in low-light conditions or with complex backgrounds. <br> It's also intended for use with a standard mouse, and may not be suitable for tasks that require more precise or nuanced mouse control. <br>
 
-# Acknowledgements
-This program was inspired by this tutorial on hand gesture recognition with Python and OpenCV.
+# Contributions
+ 
