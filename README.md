@@ -7,7 +7,6 @@
 pip install opencv-python
 ```
 
-<br>
 # Step Three :- <br>
 
 ```
