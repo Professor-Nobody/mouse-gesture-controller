@@ -37,4 +37,4 @@ This program is designed to work with a single hand only, and may not work well 
 
 # Contributions
 
-<a href="https://github.com/ItsRahilAnwar">RahilAnwar </a>
+<a href="https://github.com/ItsRahilAnwar">Rahil Anwar </a>                 <a href="https://www.instagram.com/itsrahilanwar/">Instagram</a>
