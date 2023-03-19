@@ -4,17 +4,17 @@ This is a Python program that allows you to control your computer mouse using ha
 
 # Dependencies
 To run this program, you'll need to install the following Python packages:
-
-numpy
-opencv-python
-pyautogui
+<br>
+numpy <br>
+opencv-python <br>
+pyautogui <br>
 You can install these packages using pip by running the following command:
 
 ```
 pip install numpy opencv-python pyautogui
 ```
 
-Running the Program
+# Running the Program
 To run the program, open a terminal window and navigate to the directory where you've saved the program files. Then, run the following command:
 
 Copy code
