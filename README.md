@@ -7,7 +7,8 @@
 pip install opencv-python
 ```
 <br>
-# Step Three <br>
+# Step Three :- <br>
+
 ```
 pip install pyautogui
 ```
