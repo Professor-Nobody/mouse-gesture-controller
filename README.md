@@ -12,3 +12,10 @@ pip install opencv-python
 ```
 pip install pyautogui
 ```
+# Step Four :- <br>
+
+```
+python filename.py
+```
+
+in your terminal
